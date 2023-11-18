@@ -38,6 +38,15 @@ Chrome Tab Switcher is a simple open-source Chrome extension that enables users 
 
 3. Release the shortcut to switch to the selected tab.
 
+## How to dev
+Development version:
+`npm run dev`
+
+Built version:
+`npm run build`
+
+Import the built version to chrome-extensions = chrome://extensions/
+
 ## Customization
 
 To customize the keyboard shortcut, follow these steps:
