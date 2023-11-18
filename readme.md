@@ -80,6 +80,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For inquiries, contact [Your Name] at your.email@example.com.
+For inquiries, contact Sergio Paniagua at xpanisergio@gmail.com
 
 Feel free to explore the code, contribute, and make Chrome Tab Switcher even better! Happy coding!
