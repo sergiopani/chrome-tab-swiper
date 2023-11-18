@@ -1,9 +1,9 @@
 # Chrome Tab Switcher Extension (Need Development)
 
-<video width="1280" height="720" controls>
-  <source src="public/readme/pantalla.mp4" type="video/mp4">
-  Tu navegador no soporta el elemento de video.
-</video>
+
+
+https://github.com/sergiopani/chrome-tab-swiper/assets/42542864/308bb07f-4a1c-4003-87d7-26b603987480
+
 
 
 Chrome Tab Switcher is a simple open-source Chrome extension that enables users to switch between open tabs using a customizable keyboard shortcut.
