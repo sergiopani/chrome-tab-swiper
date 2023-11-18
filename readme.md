@@ -1,6 +1,7 @@
-# Chrome Tab Switcher Extension
+# Chrome Tab Switcher Extension (Need Development)
 
-![Extension Logo](link_to_logo.png)
+
+
 
 Chrome Tab Switcher is a simple open-source Chrome extension that enables users to switch between open tabs using a customizable keyboard shortcut.
 
@@ -28,9 +29,9 @@ Chrome Tab Switcher is a simple open-source Chrome extension that enables users 
 
 ## Usage
 
-1. Use the keyboard shortcut (e.g., Option + Command + Arrow) to open the extension.
+1. Use the keyboard shortcut (e.g., Option + tab or Alt + tab) to open the extension.
 
-2. Navigate through open tabs using the arrow keys.
+2. Navigate through open tabs using (Option + tab or Alt + tab)
 
 3. Release the shortcut to switch to the selected tab.
 
