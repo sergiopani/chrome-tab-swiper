@@ -1,0 +1,28 @@
+{
+    "manifest_version": 3,
+    "name": "tab-swiper",
+    "description": "Add the reading time to Chrome Extension documentation articles",
+    "version": "1.0",
+    "icons": {
+        "16": "icons/main.jpeg",
+        "32": "icons/main.jpeg",
+        "48": "icons/main.jpeg",
+        "128": "icons/main.jpeg"
+    },
+    "action": {
+        "default_popup": "index.html"
+    },
+    "permissions": [
+        "tabs",
+        "activeTab",
+        "scripting"
+    ],
+    "commands": {
+        "openExtension": {
+            "suggested_key": {
+                "default": "Ctrl+Shift+E"
+            },
+            "description": "Abre la extensión"
+        }
+    }
+}
