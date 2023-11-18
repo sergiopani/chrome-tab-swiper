@@ -1,4 +1,4 @@
-# Chrome Tab Switcher Extension (Need Need improves)
+# Chrome Tab Switcher Extension (Need improves)
 
 
 
