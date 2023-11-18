@@ -19,7 +19,7 @@ Chrome Tab Switcher is a simple open-source Chrome extension that enables users 
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/chrome-tab-switcher.git
+    [git clone https://github.com/your-username/chrome-tab-switcher.git](https://github.com/sergiopani/chrome-tab-swiper.git)
     ```
 
 2. Open Chrome and navigate to `chrome://extensions/`.
